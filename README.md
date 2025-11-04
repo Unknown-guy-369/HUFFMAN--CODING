@@ -1,3 +1,5 @@
+## Name : Abishek Priyan M
+## Reg.no: 212224240004
 # Huffman-Coding
 ## Aim
 To implement Huffman coding to compress the data using Python.
